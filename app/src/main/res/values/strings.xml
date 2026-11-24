@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments1</string>
+
+    <string name="article_title">Cry for a Shadow</string>
+
+    <string name="article_description">Mary, a Beatles fan, started collecting records and listening to music. This album contains many songs and interesting musical details.</string>
+
+    <string name="question_article">LIKE THE ARTICLE?</string>
+
+    <string name="yes">Yes</string>
+
+    <string name="no">No</string>
+
+    <string name="yes_message">ARTICLE: Like</string>
+
+    <string name="no_message">ARTICLE: Thanks</string>
+
+    <string name="open">OPEN</string>
+
+    <string name="close">CLOSE</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
